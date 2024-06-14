@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left"></h2>
 
 ###
 
-<p align="left">✨ Still learning how to create bugs<br>📚 I'm currently learning Data Science and Machine Learning<br>🎯 Goals: My goal is to become a<br>🎲 Fun fact: I love to make new friends</p>
+<p align="left">✨ Still learning how to create bugs<br>📚 I'm currently learning Data Science and Machine Learning<br>🎯 Goals : My goal is to become a Good data Engineer in the nearest future...<br>🎲 Fun fact about me: I love to make new friends.</p>
 
 ###
 
@@ -37,3 +37,4 @@
 </div>
 
 ###
+
